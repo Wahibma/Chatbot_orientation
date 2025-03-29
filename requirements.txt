@@ -2,6 +2,7 @@ langchain-openai
 langchain-community
 python-dotenv
 streamlit
+chromadb
 pysqlite3-binary>=0.4.7
 aiohappyeyeballs==2.4.8
 aiohttp==3.11.13
