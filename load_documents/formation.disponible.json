@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelles sont les formations disponibles en informatique ?",
+      "reponse": "Les formations disponibles incluent la licence informatique, le master en intelligence artificielle, le diplôme d'ingénieur en informatique, etc.",
+      "matieres": ["Programmation", "Algorithmes", "Bases de données", "Réseaux", "Sécurité informatique"],
+      "competences": ["Développement logiciel", "Gestion de bases de données", "Administration réseau", "Cybersécurité"],
+      "debouches": ["Développeur logiciel", "Administrateur réseau", "Analyste de données", "Consultant en cybersécurité"],
+      "lien": "https://www.universite-paris.fr/informatique"
+    },
+    {
+      "id": 2,
+      "question": "Quelles sont les formations disponibles en marketing ?",
+      "reponse": "Les formations disponibles incluent la licence en marketing, le master en marketing digital, le MBA en marketing, etc.",
+      "matieres": ["Stratégie marketing", "Communication digitale", "Analyse de marché", "Gestion de projet"],
+      "competences": ["Élaboration de stratégies marketing", "Gestion de campagnes digitales", "Analyse de données marketing", "Gestion de projets"],
+      "debouches": ["Responsable marketing", "Consultant en stratégie digitale", "Chef de projet web", "Analyste marketing"],
+      "lien": "https://www.universite-lyon.fr/marketing"
+    },
+    {
+      "id": 3,
+      "question": "Quelles sont les formations disponibles en droit ?",
+      "reponse": "Les formations disponibles incluent la licence en droit, le master en droit des affaires, le doctorat en droit, etc.",
+      "matieres": ["Droit civil", "Droit pénal", "Droit administratif", "Droit des affaires"],
+      "competences": ["Analyse juridique", "Rédaction d'actes juridiques", "Conseil juridique", "Plaidoyer"],
+      "debouches": ["Avocat", "Juriste d'entreprise", "Magistrat", "Notaire"],
+      "lien": "https://www.universite-bordeaux.fr/droit"
+    },
+    {
+      "id": 4,
+      "question": "Quelles sont les formations disponibles en santé ?",
+      "reponse": "Les formations disponibles incluent le diplôme d'État d'infirmier, le master en sciences infirmières, le doctorat en médecine, etc.",
+      "matieres": ["Soins infirmiers", "Pharmacologie", "Anatomie", "Pathologies"],
+      "competences": ["Soins aux patients", "Administration de médicaments", "Gestion des urgences", "Éducation thérapeutique"],
+      "debouches": ["Infirmier", "Infirmier spécialisé", "Cadre de santé", "Médecin"],
+      "lien": "https://www.ifsi-marseille.fr"
+    },
+    {
+      "id": 5,
+      "question": "Quelles sont les formations disponibles en ingénierie ?",
+      "reponse": "Les formations disponibles incluent le diplôme d'ingénieur en génie civil, le master en ingénierie mécanique, le doctorat en ingénierie électrique, etc.",
+      "matieres": ["Mécanique des structures", "Thermodynamique", "Électronique", "Gestion de projet"],
+      "competences": ["Conception de structures", "Analyse thermique", "Développement de circuits électroniques", "Gestion de projets techniques"],
+      "debouches": ["Ingénieur en génie civil", "Ingénieur mécanique", "Ingénieur électricien", "Chef de projet technique"],
+      "lien": "https://www.insa-toulouse.fr/ingenierie"
+    },
+    {
+      "id": 6,
+      "question": "Quelles sont les formations disponibles en arts et lettres ?",
+      "reponse": "Les formations disponibles incluent la licence en lettres modernes, le master en histoire de l'art, le doctorat en littérature comparée, etc.",
+      "matieres": ["Littérature française", "Histoire de l'art", "Philosophie", "Langues étrangères"],
+      "competences": ["Analyse littéraire", "Critique d'art", "Rédaction", "Traduction"],
+      "debouches": ["Professeur de lettres", "Critique d'art", "Écrivain", "Traducteur"],
+      "lien": "https://www.universite-paris.fr/arts-lettres"
+    },
+    {
+      "id": 7,
+      "question": "Quelles sont les formations disponibles en sciences humaines et sociales ?",
+      "reponse": "Les formations disponibles incluent la licence en sociologie, le master en psychologie, le doctorat en anthropologie, etc.",
+      "matieres": ["Sociologie", "Psychologie", "Anthropologie", "Sciences politiques"],
+      "competences": ["Analyse sociologique", "Évaluation psychologique", "Recherche anthropologique", "Analyse politique"],
+      "debouches": ["Sociologue", "Psychologue", "Anthropologue", "Analyste politique"],
+      "lien": "https://www.universite-lyon.fr/sciences-humaines"
+    },
+    {
+      "id": 8,
+      "question": "Quelles sont les formations disponibles en économie et gestion ?",
+      "reponse": "Les formations disponibles incluent la licence en économie, le master en gestion des entreprises, le MBA en finance, etc.",
+      "matieres": ["Économie", "Gestion", "Finance", "Comptabilité"],
+      "competences": ["Analyse économique", "Gestion d'entreprise", "Analyse financière", "Comptabilité"],
+      "debouches": ["Économiste", "Gestionnaire d'entreprise", "Analyste financier", "Comptable"],
+      "lien": "https://www.universite-bordeaux.fr/economie-gestion"
+    },
+    {
+      "id": 9,
+      "question": "Quelles sont les formations disponibles en sciences de l'éducation ?",
+      "reponse": "Les formations disponibles incluent la licence en sciences de l'éducation, le master en pédagogie, le doctorat en éducation, etc.",
+      "matieres": ["Pédagogie", "Psychologie de l'éducation", "Sociologie de l'éducation", "Didactique"],
+      "competences": ["Conception de programmes éducatifs", "Évaluation pédagogique", "Recherche en éducation", "Formation de formateurs"],
+      "debouches": ["Enseignant", "Conseiller pédagogique", "Chercheur en éducation", "Formateur"],
+      "lien": "https://www.universite-paris.fr/sciences-education"
+    },
+    {
+      "id": 10,
+      "question": "Quelles sont les formations disponibles en langues étrangères ?",
+      "reponse": "Les formations disponibles incluent la licence en langues étrangères appliquées, le master en traduction, le doctorat en linguistique, etc.",
+      "matieres": ["Langues étrangères", "Traduction", "Linguistique", "Civilisation étrangère"],
+      "competences": ["Traduction", "Interprétation", "Enseignement des langues", "Recherche linguistique"],
+      "debouches": ["Traducteur", "Interprète", "Professeur de langues", "Linguiste"],
+      "lien": "https://www.universite-lyon.fr/langues-etrangeres"
+    },
+    {
+      "id": 11,
+      "question": "Quelles sont les formations disponibles en communication ?",
+      "reponse": "Les formations disponibles incluent la licence en communication, le master en journalisme, le doctorat en sciences de l'information, etc.",
+      "matieres": ["Communication", "Journalisme", "Médias", "Relations publiques"],
+      "competences": ["Stratégie de communication", "Rédaction journalistique", "Gestion des médias", "Relations publiques"],
+      "debouches": ["Chargé de communication", "Journaliste", "Responsable médias", "Attaché de presse"],
+      "lien": "https://www.universite-bordeaux.fr/communication"
+    },
+    {
+      "id": 12,
+      "question": "Quelles sont les formations disponibles en environnement et développement durable ?",
+      "reponse": "Les formations disponibles incluent la licence en sciences de l'environnement, le master en développement durable, le doctorat en écologie, etc.",
+      "matieres": ["Écologie", "Développement durable", "Gestion de l'environnement", "Politiques environnementales"],
+      "competences": ["Analyse environnementale", "Gestion de projets durables", "Recherche écologique", "Élaboration de politiques environnementales"],
+      "debouches": ["Écologue", "Consultant en développement durable", "Gestionnaire de l'environnement", "Chercheur en écologie"],
+      "lien": "https://www.universite-paris.fr/environnement"
+    },
+    {
+      "id": 13,
+      "question": "Quelles sont les formations disponibles en tourisme et hôtellerie ?",
+      "reponse": "Les formations disponibles incluent la licence en tourisme, le master en management hôtelier, le doctorat en géographie du tourisme, etc.",
+      "matieres": ["Tourisme", "Management hôtelier", "Géographie du tourisme", "Marketing touristique"],
+      "competences": ["Gestion touristique", "Management hôtelier", "Analyse géographique", "Stratégie marketing touristique"],
+      "debouches": ["Responsable touristique", "Manager hôtelier", "Consultant en tourisme", "Chargé de marketing touristique"],
+      "lien": "https://www.universite-lyon.fr/tourisme-hotellerie"
+    },
+    {
+      "id": 14,
+      "question": "Quelles sont les formations disponibles en design et création numérique ?",
+      "reponse": "Les formations disponibles incluent la licence en design graphique, le master en création numérique, le doctorat en arts plastiques, etc.",
+      "matieres": ["Design graphique", "Création numérique", "Arts plastiques", "Multimédia"],
+      "competences": ["Design graphique", "Création numérique", "Arts plastiques", "Production multimédia"],
+      "debouches": ["Designer graphique", "Créateur numérique", "Artiste plasticien", "Producteur multimédia"],
+      "lien": "https://www.universite-paris.fr/design-creation-numerique"
+    },
+    {
+      "id": 15,
+      "question": "Quelles sont les formations disponibles en sciences politiques ?",
+      "reponse": "Les formations disponibles incluent la licence en sciences politiques, le master en relations internationales, le doctorat en politique comparée, etc.",
+      "matieres": ["Sciences politiques", "Relations internationales", "Politique comparée", "Administration publique"],
+      "competences": ["Analyse politique", "Relations internationales", "Politique comparée", "Gestion publique"],
+      "debouches": ["Analyste politique", "Diplomate", "Consultant en politique comparée", "Gestionnaire public"],
+      "lien": "https://www.universite-lyon.fr/sciences-politiques"
+    },
+    {
+      "id": 16,
+      "question": "Quelles sont les formations disponibles en data science ?",
+      "reponse": "Les formations disponibles incluent la licence en data science, le master en intelligence artificielle et data science, le doctorat en data science, etc.",
+      "matieres": ["Statistiques", "Machine Learning", "Big Data", "Data Visualization"],
+      "competences": ["Analyse de données", "Machine Learning", "Gestion de bases de données", "Data Visualization"],
+      "debouches": ["Data Scientist", "Data Analyst", "Machine Learning Engineer", "Data Engineer"],
+      "lien": "https://www.universite-paris.fr/data-science"
+    }
+  ]
+}

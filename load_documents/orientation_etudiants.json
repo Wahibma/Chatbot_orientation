@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment choisir la filière qui me convient le mieux ?",
+      "reponse": "Pour choisir la filière qui vous convient le mieux, il est important de prendre en compte vos intérêts, vos compétences et vos aspirations professionnelles. Vous pouvez également consulter des conseillers d'orientation ou participer à des journées portes ouvertes."
+    },
+    {
+      "id": 2,
+      "question": "Quels sont les critères à considérer pour choisir une université ?",
+      "reponse": "Les critères à considérer incluent la réputation de l'université, les programmes offerts, les opportunités de stage, la localisation géographique et les frais de scolarité."
+    },
+    {
+      "id": 3,
+      "question": "Comment puis-je obtenir une bourse d'études ?",
+      "reponse": "Pour obtenir une bourse d'études, vous devez remplir les critères d'éligibilité, soumettre une demande complète et fournir les documents requis. Certaines bourses sont basées sur le mérite académique, tandis que d'autres sont basées sur les besoins financiers."
+    },
+    {
+      "id": 4,
+      "question": "Quels sont les avantages de suivre une formation en alternance ?",
+      "reponse": "Les avantages incluent l'acquisition d'une expérience professionnelle, la possibilité de financer ses études et une meilleure insertion professionnelle après l'obtention du diplôme."
+    },
+    {
+      "id": 5,
+      "question": "Comment puis-je me préparer aux examens d'entrée à l'université ?",
+      "reponse": "Préparez-vous en révisant les matières couvertes par les examens, en faisant des exercices pratiques et en suivant des cours de préparation si nécessaire."
+    },
+    {
+      "id": 6,
+      "question": "Quels sont les débouchés après une licence en informatique ?",
+      "reponse": "Les débouchés incluent des postes de développeur logiciel, administrateur réseau, analyste de données, etc."
+    },
+    {
+      "id": 7,
+      "question": "Comment puis-je améliorer mon CV pour une candidature à l'université ?",
+      "reponse": "Mettez en avant vos compétences, expériences pertinentes, projets académiques et activités extrascolaires. Assurez-vous que votre CV est clair et bien structuré."
+    },
+    {
+      "id": 8,
+      "question": "Quels sont les avantages de participer à des activités extrascolaires ?",
+      "reponse": "Les activités extrascolaires permettent de développer des compétences transversales, d'élargir son réseau et de renforcer son CV."
+    },
+    {
+      "id": 9,
+      "question": "Comment puis-je choisir un stage qui correspond à mes objectifs professionnels ?",
+      "reponse": "Choisissez un stage en fonction de vos objectifs de carrière, des compétences que vous souhaitez acquérir et de l'entreprise dans laquelle vous souhaitez travailler."
+    },
+    {
+      "id": 10,
+      "question": "Quels sont les critères pour être admis dans une grande école ?",
+      "reponse": "Les critères incluent les résultats académiques, les lettres de recommandation, les expériences professionnelles et les entretiens."
+    },
+    {
+      "id": 11,
+      "question": "Comment puis-je me préparer à un entretien d'admission ?",
+      "reponse": "Préparez-vous en vous renseignant sur l'établissement, en préparant des réponses aux questions courantes et en vous entraînant à parler de vos motivations et de vos projets."
+    },
+    {
+      "id": 12,
+      "question": "Quels sont les avantages de suivre une formation à l'étranger ?",
+      "reponse": "Les avantages incluent l'apprentissage d'une nouvelle langue, l'ouverture culturelle, l'acquisition d'une expérience internationale et l'amélioration de l'employabilité."
+    },
+    {
+      "id": 13,
+      "question": "Comment puis-je financer mes études à l'étranger ?",
+      "reponse": "Vous pouvez financer vos études à l'étranger grâce à des bourses, des prêts étudiants, des économies personnelles ou en travaillant à temps partiel."
+    },
+    {
+      "id": 14,
+      "question": "Quels sont les débouchés après un master en marketing ?",
+      "reponse": "Les débouchés incluent des postes de responsable marketing, consultant en stratégie digitale, chef de projet web, etc."
+    },
+    {
+      "id": 15,
+      "question": "Comment puis-je me tenir informé des actualités du monde universitaire ?",
+      "reponse": "Suivez les actualités sur les sites web des universités, abonnez-vous à des newsletters spécialisées et participez à des forums et réseaux sociaux dédiés à l'orientation étudiante."
+    }
+  ]
+}

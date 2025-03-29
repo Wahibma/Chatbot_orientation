@@ -1,0 +1,80 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Comment choisir une carrière qui me passionne ?",
+        "reponse": "Pour choisir une carrière qui vous passionne, identifiez vos intérêts, vos valeurs et vos compétences. Faites des recherches sur les métiers qui correspondent à ces critères et parlez à des professionnels du domaine."
+      },
+      {
+        "id": 2,
+        "question": "Quels sont les métiers en forte demande actuellement ?",
+        "reponse": "Les métiers en forte demande incluent les développeurs logiciels, les data scientists, les ingénieurs en intelligence artificielle, les professionnels de la santé et les experts en cybersécurité."
+      },
+      {
+        "id": 3,
+        "question": "Comment puis-je me reconvertir professionnellement ?",
+        "reponse": "Pour vous reconvertir, identifiez vos compétences transférables, suivez des formations adaptées, réseautez avec des professionnels du nouveau domaine et mettez à jour votre CV et votre profil LinkedIn."
+      },
+      {
+        "id": 4,
+        "question": "Quels sont les avantages de travailler dans une startup ?",
+        "reponse": "Les avantages incluent une culture d'entreprise dynamique, des opportunités de croissance rapide, une grande autonomie et la possibilité de participer à des projets innovants."
+      },
+      {
+        "id": 5,
+        "question": "Comment puis-je négocier mon salaire lors d'un entretien d'embauche ?",
+        "reponse": "Préparez-vous en faisant des recherches sur les salaires du marché, en déterminant votre valeur ajoutée et en pratiquant la négociation avec un ami ou un mentor."
+      },
+      {
+        "id": 6,
+        "question": "Quels sont les métiers accessibles après une licence en droit ?",
+        "reponse": "Les métiers accessibles incluent avocat, juriste d'entreprise, magistrat, notaire, etc."
+      },
+      {
+        "id": 7,
+        "question": "Comment puis-je améliorer mon employabilité ?",
+        "reponse": "Améliorez votre employabilité en acquérant de nouvelles compétences, en obtenant des certifications, en participant à des projets professionnels et en développant votre réseau."
+      },
+      {
+        "id": 8,
+        "question": "Quels sont les avantages de travailler dans le secteur public ?",
+        "reponse": "Les avantages incluent la stabilité de l'emploi, des avantages sociaux, des horaires de travail réguliers et des opportunités de formation continue."
+      },
+      {
+        "id": 9,
+        "question": "Comment puis-je me préparer à un entretien d'embauche ?",
+        "reponse": "Préparez-vous en vous renseignant sur l'entreprise, en préparant des réponses aux questions courantes et en vous entraînant à parler de vos compétences et de vos expériences."
+      },
+      {
+        "id": 10,
+        "question": "Quels sont les métiers accessibles après un diplôme d'ingénieur ?",
+        "reponse": "Les métiers accessibles incluent ingénieur en génie civil, chef de projet construction, consultant en infrastructure, etc."
+      },
+      {
+        "id": 11,
+        "question": "Comment puis-je me tenir informé des tendances du marché du travail ?",
+        "reponse": "Suivez les actualités économiques, lisez des rapports sectoriels, participez à des conférences et des webinaires, et rejoignez des groupes professionnels sur les réseaux sociaux."
+      },
+      {
+        "id": 12,
+        "question": "Quels sont les avantages de travailler en freelance ?",
+        "reponse": "Les avantages incluent la flexibilité des horaires, la possibilité de choisir ses clients, une meilleure rémunération potentielle et l'autonomie dans la gestion de son travail."
+      },
+      {
+        "id": 13,
+        "question": "Comment puis-je me lancer en tant que freelance ?",
+        "reponse": "Pour vous lancer en tant que freelance, identifiez vos compétences, créez un portfolio, fixez vos tarifs, trouvez vos premiers clients et gérez votre activité de manière professionnelle."
+      },
+      {
+        "id": 14,
+        "question": "Quels sont les métiers accessibles après un master en marketing digital ?",
+        "reponse": "Les métiers accessibles incluent responsable marketing digital, consultant en stratégie digitale, chef de projet web, etc."
+      },
+      {
+        "id": 15,
+        "question": "Comment puis-je me préparer à une reconversion professionnelle ?",
+        "reponse": "Préparez-vous en identifiant vos compétences transférables, en suivant des formations adaptées, en réseautant avec des professionnels du nouveau domaine et en mettant à jour votre CV et votre profil LinkedIn."
+      }
+    ]
+  }
+  

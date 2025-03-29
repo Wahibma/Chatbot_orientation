@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment fonctionne le système universitaire en France ?",
+      "reponse": "Le système universitaire en France est organisé en trois cycles : licence (3 ans), master (2 ans) et doctorat (3 ans). Les études sont sanctionnées par des diplômes nationaux."
+    },
+    {
+      "id": 2,
+      "question": "Qu'est-ce que le LMD (Licence-Master-Doctorat) ?",
+      "reponse": "Le LMD est un système d'organisation des études universitaires en trois cycles : licence, master et doctorat. Il vise à harmoniser les diplômes au niveau européen."
+    },
+    {
+      "id": 3,
+      "question": "Comment s'inscrire à l'université en France ?",
+      "reponse": "Pour s'inscrire à l'université, il faut suivre les procédures d'admission spécifiques à chaque établissement, souvent via la plateforme Parcoursup pour les étudiants de première année."
+    },
+    {
+      "id": 4,
+      "question": "Qu'est-ce que Parcoursup ?",
+      "reponse": "Parcoursup est une plateforme nationale d'admission dans l'enseignement supérieur. Elle permet aux lycéens de formuler des vœux d'orientation et de recevoir des propositions d'admission."
+    },
+    {
+      "id": 5,
+      "question": "Quels sont les critères de sélection pour entrer en master ?",
+      "reponse": "Les critères incluent les résultats académiques, les lettres de motivation, les expériences professionnelles et parfois des entretiens."
+    },
+    {
+      "id": 6,
+      "question": "Comment obtenir une équivalence de diplôme étranger en France ?",
+      "reponse": "Pour obtenir une équivalence, il faut soumettre une demande auprès du Centre ENIC-NARIC France, en fournissant les documents requis et en payant les frais de dossier."
+    },
+    {
+      "id": 7,
+      "question": "Qu'est-ce que le CROUS ?",
+      "reponse": "Le CROUS (Centre Régional des Œuvres Universitaires et Scolaires) est un organisme qui gère les services de vie étudiante, comme les logements, les bourses et la restauration."
+    },
+    {
+      "id": 8,
+      "question": "Comment obtenir une bourse sur critères sociaux ?",
+      "reponse": "Pour obtenir une bourse sur critères sociaux, il faut remplir le Dossier Social Étudiant (DSE) et fournir les documents justificatifs de sa situation financière."
+    },
+    {
+      "id": 9,
+      "question": "Qu'est-ce que le CVEC ?",
+      "reponse": "Le CVEC (Contribution Vie Étudiante et de Campus) est une contribution obligatoire pour les étudiants, destinée à financer des initiatives de vie étudiante sur les campus."
+    },
+    {
+      "id": 10,
+      "question": "Comment fonctionne le système de crédits ECTS ?",
+      "reponse": "Le système ECTS (European Credit Transfer and Accumulation System) permet de mesurer le volume de travail des étudiants et de faciliter la reconnaissance des diplômes au niveau européen."
+    },
+    {
+      "id": 11,
+      "question": "Qu'est-ce qu'une année de césure ?",
+      "reponse": "Une année de césure permet aux étudiants de suspendre temporairement leurs études pour réaliser un projet personnel, professionnel ou académique."
+    },
+    {
+      "id": 12,
+      "question": "Comment obtenir un logement étudiant via le CROUS ?",
+      "reponse": "Pour obtenir un logement étudiant via le CROUS, il faut remplir le Dossier Social Étudiant (DSE) et formuler des vœux de logement."
+    },
+    {
+      "id": 13,
+      "question": "Qu'est-ce que la validation des acquis de l'expérience (VAE) ?",
+      "reponse": "La VAE permet de faire reconnaître officiellement ses compétences acquises par l'expérience professionnelle, en vue d'obtenir un diplôme ou une certification."
+    },
+    {
+      "id": 14,
+      "question": "Comment fonctionne le système de notation à l'université ?",
+      "reponse": "Le système de notation varie selon les établissements, mais il est souvent basé sur une échelle de 0 à 20, avec des mentions (passable, assez bien, bien, très bien)."
+    },
+    {
+      "id": 15,
+      "question": "Quels sont les droits des étudiants en France ?",
+      "reponse": "Les étudiants en France ont des droits concernant l'accès à l'éducation, la protection sociale, la participation à la vie universitaire et la liberté d'expression."
+    }
+  ]
+}
