@@ -1,10 +1,10 @@
-streamlit
-python-dotenv
-openai
-langchain==0.3.20
-chromadb
-langchain-openai
-langchain-community
+streamlit>=1.17.0
+python-dotenv>=1.0.0
+openai>=0.27.0
+langchain>=0.0.211
+langchain-openai>=0.0.1
+langchain-community>=0.0.1
+chromadb>=0.4.7
 pysqlite3-binary>=0.4.7
 aiohappyeyeballs==2.4.8
 aiohttp==3.11.13
