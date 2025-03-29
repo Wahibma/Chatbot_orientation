@@ -13,6 +13,11 @@ def main():
     st.set_page_config(page_title="Chatbot d'Orientation", layout="centered")
     st.title("Chatbot d'Orientation Étudiant")
 
+    st.markdown("""
+    Bienvenue sur votre Chatbot d'Orientation Étudiant. 
+    Posez vos questions ci-dessous. 
+    """)
+
     dossier_json = "load_documents"
     chemin_chroma = "embeddings"
 
