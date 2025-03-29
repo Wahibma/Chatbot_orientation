@@ -1,8 +1,13 @@
-streamlit>=1.17.0
+
 python-dotenv>=1.0.0
 openai>=0.27.0
 langchain>=0.0.211
 langchain-openai>=0.0.1
 langchain-community>=0.0.1
 chromadb>=0.4.7
-
+pandas==1.4.3
+plotly==5.10.0
+streamlit==1.12.2
+streamlit-option-menu==0.3.2
+jupyter_dash
+dash
