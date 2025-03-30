@@ -51,7 +51,7 @@ Le système exploite une **base de documents** (questionnaires, fiches filières
 
 ## Démo
 
-![chatbot.jpg](chat.jpg)
+![sortie.jpg](sortie.jpg)
 
 ```bash
 streamlit run app.py
