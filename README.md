@@ -28,27 +28,30 @@
 
 ## Description
 
-Ce projet propose un **chatbot d’orientation** pour les étudiants, basé sur une approche **RAG** (Retrieval-Augmented Generation). Il :
+Ce projet met en place un **chatbot d’orientation étudiante** basé sur un **pipeline RAG** (Retrieval-Augmented Generation). L’objectif est de permettre aux étudiants de poser des questions sur :
 
-1. **Indexe** des documents (JSON, brochures, FAQs) contenant des informations sur les filières, les débouchés et les conditions d’accès.
-2. **Permet** à l’étudiant de poser des questions en langage naturel.
-3. **Recherche** dans la base vectorielle (Chroma) les extraits les plus pertinents.
-4. **Génère** une réponse grâce à un modèle de langage (OpenAI GPT-3.5, par exemple), en s’appuyant sur les extraits retrouvés.
+- Les filières (licences, masters, etc.)  
+- Les débouchés professionnels  
+- Les modalités d’inscription et prérequis  
+
+Le système exploite une **base de documents** (questionnaires, fiches filières, FAQ universitaires) dont les textes sont **convertis en vecteurs** (embeddings) puis stockés dans un **index** (Chroma). Lorsqu’un étudiant pose une question, le chatbot :
+
+1. **Récupère** les documents les plus pertinents (recherche vectorielle).
+2. **Génère** une réponse en s’appuyant sur un modèle de langage (ex. GPT-3.5), qui intègre les extraits de documents pertinents.
 
 ---
 
 ## Objectifs
 
-1. **Fournir** une expérience interactive de questions/réponses sur les filières étudiantes (Licences, Masters, etc.).
-2. **Garantir** la fiabilité des réponses via un pipeline RAG (pas d’hallucination majeure).
-3. **Améliorer** la communication et l’information pour les futurs étudiants ou les personnes en réorientation.
+1. **Fournir** un moyen rapide et fiable de répondre aux questions des étudiants concernant leur orientation.  
+2. **Assurer** la pertinence en s’appuyant sur des documents validés (brochures, FAQ, etc.).  
+3. **Proposer** une interface simple (Streamlit) pour interagir avec le chatbot.  
 
 ---
 
 ## Démo
 
-![alt text](<WhatsApp Image 2025-03-29 à 19.00.21_57fafa21.jpg>)
+![chatbot.jpg](chat.jpg)
 
-- **Localement**, lancez :
-  ```bash
-  streamlit run app.py
+```bash
+streamlit run app.py
