@@ -55,3 +55,16 @@ Le système exploite une **base de documents** (questionnaires, fiches filières
 
 ```bash
 streamlit run app.py
+```
+
+## Structure du Projet
+📦 chatbot-orientation/
+├── embeddings/                 # Fichiers générés par Chroma (index vectoriel)
+├── load_documents/             # Dossier contenant les fichiers JSON
+├── app.py                      # Script principal Streamlit
+├── rag.py                      # Script mode terminal
+├── utils_rag.py                # Fonctions utilitaires (indexation, chatbot, etc.)
+├── requirements.txt            # Dépendances
+├── .env.example                # Exemple de fichier pour la clé API
+├── README.md                   # Ce fichier
+└── ...
