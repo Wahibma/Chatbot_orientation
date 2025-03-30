@@ -45,7 +45,9 @@ Ce projet propose un **chatbot d’orientation** pour les étudiants, basé sur 
 
 ---
 
+## Démo
 
+![alt text](<WhatsApp Image 2025-03-29 à 19.00.21_57fafa21.jpg>)
 
 - **Localement**, lancez :
   ```bash
