@@ -58,6 +58,8 @@ streamlit run app.py
 ```
 
 ## Structure du Projet
+
+
 📦 chatbot-orientation/
 ├── embeddings/                 # Fichiers générés par Chroma (index vectoriel)
 ├── load_documents/             # Dossier contenant les fichiers JSON
